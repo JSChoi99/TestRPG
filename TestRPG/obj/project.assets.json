@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\TestRPG\\TestRPG\\TestRPG.csproj",
+      "projectUniqueName": "D:\\Unity\\Meta\\TestRPG\\TestRPG\\TestRPG.csproj",
       "projectName": "TestRPG",
-      "projectPath": "C:\\Users\\User\\source\\repos\\TestRPG\\TestRPG\\TestRPG.csproj",
+      "projectPath": "D:\\Unity\\Meta\\TestRPG\\TestRPG\\TestRPG.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\TestRPG\\TestRPG\\obj\\",
+      "outputPath": "D:\\Unity\\Meta\\TestRPG\\TestRPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
