@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\power\\.nuget\\packages\\": {}
+    "/Users/jeonghyeon-u/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\GithubDesktop\\TestRPG\\TestRPG\\TestRPG.csproj",
+      "projectUniqueName": "/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/TestRPG.csproj",
       "projectName": "TestRPG",
-      "projectPath": "H:\\GithubDesktop\\TestRPG\\TestRPG\\TestRPG.csproj",
-      "packagesPath": "C:\\Users\\power\\.nuget\\packages\\",
-      "outputPath": "H:\\GithubDesktop\\TestRPG\\TestRPG\\obj\\",
+      "projectPath": "/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/TestRPG.csproj",
+      "packagesPath": "/Users/jeonghyeon-u/.nuget/packages/",
+      "outputPath": "/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\power\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/jeonghyeon-u/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
       }
     }
   }

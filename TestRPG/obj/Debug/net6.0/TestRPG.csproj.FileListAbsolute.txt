@@ -1,0 +1,15 @@
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/bin/Debug/net6.0/TestRPG
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/bin/Debug/net6.0/TestRPG.deps.json
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/bin/Debug/net6.0/TestRPG.runtimeconfig.json
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/bin/Debug/net6.0/TestRPG.dll
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/bin/Debug/net6.0/TestRPG.pdb
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/Debug/net6.0/TestRPG.csproj.AssemblyReference.cache
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/Debug/net6.0/TestRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/Debug/net6.0/TestRPG.AssemblyInfoInputs.cache
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/Debug/net6.0/TestRPG.AssemblyInfo.cs
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/Debug/net6.0/TestRPG.csproj.CoreCompileInputs.cache
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/Debug/net6.0/TestRPG.dll
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/Debug/net6.0/refint/TestRPG.dll
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/Debug/net6.0/TestRPG.pdb
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/Debug/net6.0/TestRPG.genruntimeconfig.cache
+/Users/jeonghyeon-u/Projects/TestRPG/TestRPG/obj/Debug/net6.0/ref/TestRPG.dll
